@@ -1,17 +1,27 @@
-<!-- Banner / MasterHead -->
+<!-- 1) Banner / MasterHead (balanced landscape) -->
 <p align="center">
-  <img src="MASTERHEAD_URL_HERE" alt="MasterHead banner" width="100%" />
+  <img src="https://33.media.tumblr.com/55eec8ccbc70b23a1277f21e19cfc6e7/tumblr_nieo7eqIa61r9m88fo3_500.gif" 
+       alt="MasterHead banner" width="50%" height="180" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Rifah Tasnia Atoshe</h1>
-<h3 align="center">Curious Bangladeshi dev exploring open source</h3>
+<h1 align="center">Hi, I'm Atoshe</h1>
+<h3 align="center">
+  A curious individual from Bangladesh,<br/>
+  want to explore the open source world
+</h3>
 
-<!-- Coding GIF on the right -->
-<img align="right" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" alt="Coding animation" width="360" />
+<!-- 2) Second GIF (tiny, below intro) -->
+<p align="center">
+  <img src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" 
+       alt="Small animation" width="25%" height="80" />
+</p>
 
-- 🌱 I’m currently learning **Java**
-- 📫 How to reach me: **rifah55000@gmail.com**
-- 🧭 Interests: **Arduino, GDScript (Godot), HTML, IoT**
+<!-- 3) Coding GIF on the right -->
+<img align="right" src="https://media1.tenor.com/m/ITc1hNBSH_wAAAAd/coding-typing.gif" alt="Coding animation" width="200" />
+
+- 🌱 I’m currently learning **Java**  
+- 📫 How to reach me: **rifah55000@gmail.com**  
+- 🔧 Interests: **Arduino, GDScript (Godot), HTML, IoT**
 
 ---
 
@@ -37,10 +47,9 @@
 
 ---
 
-<!-- GitHub stats (optional) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atoshe9&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
->
+
 
 
