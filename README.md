@@ -1,22 +1,22 @@
 <p align="center">
   <img
-    src="https://33.media.tumblr.com/55eec8ccbc70b23a1277f21e19cfc6e7/tumblr_nieo7eqIa61r9m88fo3_500.gif"
+    src="https://64.media.tumblr.com/13aa123e368277e924204a590761b3e8/9203134bcb94f388-33/s500x750/e28566094ee7d8e5d4b4043091f7796c3e86d0ab.gifv"
     alt="MasterHead banner"
-    width="42%" height="120"
+    width="320" height="200"
   />
 </p>
 
-<h5 align="center">
+<p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Bangers&weight=900&size=28&duration=1&pause=1&color=FFB6C1&center=true&vCenter=true&repeat=false&width=500&height=40&lines=Hi%2C+I'm+Atoshe"
+    src="https://readme-typing-svg.demolab.com?font=Fredoka+One&weight=900&size=28&duration=1&pause=1&color=FF69B4&center=true&vCenter=true&repeat=false&width=450&height=40&lines=Hi,+I'm+Atoshe"
     alt="Hi, I'm Atoshe"
   />
-</h5>
+</p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fugaz+One&weight=800&size=20&duration=1&pause=1&color=FFB6C1&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+curious+individual+from+Bangladesh;want+to+explore+the+open+source+world"
-    alt="A curious individual from Bangladesh, want to explore the open source world"
+    src="https://readme-typing-svg.demolab.com?font=Bangers&weight=800&size=18&duration=1&pause=1&color=FF69B4&center=true&vCenter=true&repeat=false&width=850&height=50&lines=I+want+to+learn,+code+and+explore+the+open+source+universe"
+    alt="I want to learn, code and explore the open source universe"
   />
 </p>
 
