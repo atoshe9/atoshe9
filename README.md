@@ -6,12 +6,12 @@
   />
 </p>
 
-<h3 align="center">
+<h4 align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Bangers&weight=900&size=48&duration=1&pause=1&color=FFB6C1&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hi%2C+I'm+Atoshe"
     alt="Hi, I'm Atoshe"
   />
-</h3>
+</h4>
 
 
 <p align="center">
