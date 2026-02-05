@@ -60,11 +60,6 @@
 
 ---
 
-### 😈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atoshe9&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atoshe9&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="160" />
-</p>
 
 
